@@ -8,7 +8,7 @@
 
 $$v=\frac c n$$，其中v为介质光速，c为真空光速，n为折射率
 
-光强$$I$$定义为平均能流密度，$$I\varpropto E_0^2$$,$$E_0$$​为电场的振幅
+光强$I$定义为平均能流密度，$I\varpropto E_0^2$$,$$E_0$​为电场的振幅
 
 ### 光的偏振态
 
@@ -52,6 +52,8 @@ $$
 **菲涅尔公式**考试会提供
 
 **反射率与透射率**
+
+
 $$
 \tilde{r_p}=\frac{\tilde{E_{1p}'}}{E_{1p}} ,
 \tilde{r_s}=\frac{\tilde{E_{1s}'}}{E_{1s}} \\
@@ -66,6 +68,8 @@ T_s=\frac{I_{2s}}{I_{1s}}=\frac{n_2}{n_1}|\tilde{t_s}|^2 \\
 \mathcal{T}_p=\frac{W_{2p}}{W_{1p}}=\frac {cosi_2}{cosi_1}T_p ,
 \mathcal{T}_s=\frac{W_{2s}}{W_{1s}}=\frac {cosi_2}{cosi_1}T_s
 $$
+
+
 **斯托克斯倒逆关系（运用了光路可逆原理）**
 $$
 \tilde{r}^2+\tilde t \tilde t'=1 \\
